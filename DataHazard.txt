@@ -1,0 +1,8 @@
+LW Rb,b
+LW Rc,c
+ADD Ra,Rb,Rc
+SW a,Ra 
+LW Re,e 
+LW Rf,f
+SUB Rd,Re,Rf
+SW d,Rd

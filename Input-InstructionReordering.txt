@@ -1,0 +1,8 @@
+LW R1,#3
+LW R2,#5
+ADD R3,R1,R2
+SW x,R3
+LW R4,#5
+LW R5,#6
+SUB R6,R4,R5
+SW y,R6

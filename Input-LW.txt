@@ -1,0 +1,4 @@
+LW R1,0(R1)
+SUB R4,R1,R5
+AND R6,R1,R7
+OR R8,R2,R9                                         

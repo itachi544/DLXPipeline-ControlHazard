@@ -1,0 +1,5 @@
+Loop:LW	F0,0(R1)
+ADD F4,F0,F2
+SW 0(R1),F4
+SUBI R1,R1,8
+BNEZ R1,Loop

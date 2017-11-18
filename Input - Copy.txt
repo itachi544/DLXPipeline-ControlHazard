@@ -1,0 +1,5 @@
+add R1,R2,R3
+sub R4,R5,R1
+AND R6,R1,R7
+OR R8,R1,R9
+XOR R10,R1,R8
